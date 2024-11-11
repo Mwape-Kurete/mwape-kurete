@@ -25,8 +25,27 @@
 # Key Projects 
 
 Below are links to the 4 projects I completed this year.
+## Semester 1
+### Term 1 & 2
 
+STAXS: Stack artist stats against each other in this React comparison app.
 
+[![Mwape-Kurete/STAXS_T1P1 - GitHub](https://gh-card.dev/repos/Mwape-Kurete/STAXS_T1P1.svg)](https://github.com/Mwape-Kurete/STAXS_T1P1)
+
+EQ: An online E-Commerce site for audiophiles. Buy, Sell, Rate and Review high-end audio and media equipment. 
+
+[![Mwape-Kurete/DV200T2GroupAssignmentEQ - GitHub](https://gh-card.dev/repos/Mwape-Kurete/DV200T2GroupAssignmentEQ.svg)](https://github.com/Mwape-Kurete/DV200T2GroupAssignmentEQ)
+
+## Semester 2
+### Term 3 & 4 
+
+ADDI: Find and post events. 
+
+[![Mwape-Kurete/ADDI - GitHub](https://gh-card.dev/repos/Mwape-Kurete/ADDI.svg)](https://github.com/Mwape-Kurete/ADDI)
+
+Rekeni: Connect, Review, Explore. 
+
+[![Mwape-Kurete/Rekeni - GitHub](https://gh-card.dev/repos/Mwape-Kurete/Rekeni.svg)](https://github.com/Mwape-Kurete/Rekeni)
 
 ### GitHub Profile Trophies
 
