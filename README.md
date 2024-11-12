@@ -46,6 +46,7 @@ Below are links to the 4 projects I completed this year.
     <img src="https://github.com/user-attachments/assets/350b3f01-b05d-479d-8c24-d43ac2505ec3" alt="Your Banner" width="400" />
   </a>
 </p>
+
 ### GitHub Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mwape-kurete&theme=dracula&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
