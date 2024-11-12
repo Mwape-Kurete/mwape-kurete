@@ -28,25 +28,25 @@ Below are links to the 4 projects I completed this year.
 ## Semester 1
 ### Term 1 & 2
 
-STAXS: Stack artist stats against each other in this React comparison app.
-
-[![Mwape-Kurete/STAXS_T1P1 - GitHub](https://gh-card.dev/repos/Mwape-Kurete/STAXS_T1P1.svg)](https://github.com/Mwape-Kurete/STAXS_T1P1)
-
-EQ: An online E-Commerce site for audiophiles. Buy, Sell, Rate and Review high-end audio and media equipment. 
-
-[![Mwape-Kurete/DV200T2GroupAssignmentEQ - GitHub](https://gh-card.dev/repos/Mwape-Kurete/DV200T2GroupAssignmentEQ.svg)](https://github.com/Mwape-Kurete/DV200T2GroupAssignmentEQ)
+<p align="center">
+<a href="https://github.com/Mwape-Kurete/STAXS_T1P1">
+  <img src="https://github.com/user-attachments/assets/4ef02384-da80-404e-b854-0b30c40bf5de" alt="Your Banner" width="400" />
+</a>
+<a href="https://github.com/Mwape-Kurete/DV200T2GroupAssignmentEQ">
+  <img src="https://github.com/user-attachments/assets/daa52c80-38f0-4a14-93fb-8cb63c96be01" alt="Your Banner" width="400" />
+</a>
+</p>
 
 ## Semester 2
 ### Term 3 & 4 
-
-ADDI: Find and post events. 
-
-[![Mwape-Kurete/ADDI - GitHub](https://gh-card.dev/repos/Mwape-Kurete/ADDI.svg)](https://github.com/Mwape-Kurete/ADDI)
-
-Rekeni: Connect, Review, Explore. 
-
-[![Mwape-Kurete/Rekeni - GitHub](https://gh-card.dev/repos/Mwape-Kurete/Rekeni.svg)](https://github.com/Mwape-Kurete/Rekeni)
-
+<p align="center">
+  <a href="https://github.com/Mwape-Kurete/ADDI">
+    <img src="https://github.com/user-attachments/assets/df7d1689-bd9f-470e-b769-64305ce7d761" alt="Your Banner" width="400" />
+  </a>
+  <a href="https://github.com/Mwape-Kurete/Rekeni">
+    <img src="https://github.com/user-attachments/assets/350b3f01-b05d-479d-8c24-d43ac2505ec3" alt="Your Banner" width="400" />
+  </a>
+</p>
 ### GitHub Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mwape-kurete&theme=dracula&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
