@@ -29,10 +29,10 @@ Below are links to the 4 projects I completed this year.
 ### Term 1 & 2
 <p align="center">
 <a href="https://github.com/Mwape-Kurete/STAXS_T1P1">
-  <img src="https://github.com/user-attachments/assets/faa3892f-920f-4929-9ce6-302838a8ce10" alt="Your Banner" width="450" />
+  <img src="https://github.com/user-attachments/assets/faa3892f-920f-4929-9ce6-302838a8ce10" alt="Your Banner" width="400" />
 </a>
 <a href="https://github.com/Mwape-Kurete/DV200T2GroupAssignmentEQ">
-  <img src="https://github.com/user-attachments/assets/daa52c80-38f0-4a14-93fb-8cb63c96be01" alt="Your Banner" width="450" />
+  <img src="https://github.com/user-attachments/assets/daa52c80-38f0-4a14-93fb-8cb63c96be01" alt="Your Banner" width="400" />
 </a>
 </p>
 
@@ -40,10 +40,10 @@ Below are links to the 4 projects I completed this year.
 ### Term 3 & 4 
 <p align="center">
   <a href="https://github.com/Mwape-Kurete/ADDI">
-    <img src="https://github.com/user-attachments/assets/df7d1689-bd9f-470e-b769-64305ce7d761" alt="Your Banner" width="450" />
+    <img src="https://github.com/user-attachments/assets/df7d1689-bd9f-470e-b769-64305ce7d761" alt="Your Banner" width="400" />
   </a>
   <a href="https://github.com/Mwape-Kurete/Rekeni">
-    <img src="https://github.com/user-attachments/assets/350b3f01-b05d-479d-8c24-d43ac2505ec3" alt="Your Banner" width="450" />
+    <img src="https://github.com/user-attachments/assets/350b3f01-b05d-479d-8c24-d43ac2505ec3" alt="Your Banner" width="400" />
   </a>
 </p>
 ### GitHub Profile Trophies
