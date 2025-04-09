@@ -2,7 +2,7 @@
 ***
 # A Bit About Me
 <p align="center">
-  I'm a 2nd-year Creative Technology student, double-majoring in Interactive Development and User Experience Design. I thrive on tackling challenging projects that test my skills and drive me to create innovative solutions. Recently, I’ve been focusing on building community-driven applications that connect people through music and events. :sunglasses:.
+  I'm a 3rd-year Creative Technology student, double-majoring in Interactive Development and User Experience Design. I thrive on tackling challenging projects that test my skills and drive me to create innovative solutions. Recently, I’ve been focusing on building community-driven applications that connect people through music and events. :sunglasses:.
 </p>
 
 *** 
